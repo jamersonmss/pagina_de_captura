@@ -1,3 +1,3 @@
-# Criação de uma página com campos para preenchimento dos participantes
+# Criação de uma página de captura
 
-Neste projeto utilizamos HTML e CSS
+Neste projeto utilizei HTML e CSS para criar um modelo de página para um evento de Workshop.
